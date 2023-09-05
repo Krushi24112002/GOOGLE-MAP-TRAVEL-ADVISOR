@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/GOOGLE-MAP-TRAVEL-ADVISOR/static/js/main.4e504bdd.js",
+    "main.js": "/GOOGLE-MAP-TRAVEL-ADVISOR/static/js/main.f04bdcbd.js",
     "index.html": "/GOOGLE-MAP-TRAVEL-ADVISOR/index.html",
-    "main.4e504bdd.js.map": "/GOOGLE-MAP-TRAVEL-ADVISOR/static/js/main.4e504bdd.js.map"
+    "main.f04bdcbd.js.map": "/GOOGLE-MAP-TRAVEL-ADVISOR/static/js/main.f04bdcbd.js.map"
   },
   "entrypoints": [
-    "static/js/main.4e504bdd.js"
+    "static/js/main.f04bdcbd.js"
   ]
 }
