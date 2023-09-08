@@ -32,11 +32,8 @@ Technologies used in the project:
 
 <h2>Project Screenshots </h2>
 
-<img width="800" height="400" alt="Travel_Advisor1" src="https://github.com/Krushi24112002/Google_Map_Travel_Advisor/assets/84612397/0c8682ae-95f5-4c63-a05d-18760b8b4f3c">
+<img width="800" height="400" alt="Travel Advisor" src="https://github.com/Krushi24112002/GOOGLE-MAP-TRAVEL-ADVISOR/assets/84612397/ef8b197d-5648-4bf8-b667-0ac06857f2d3">
 <br>
-<img width="800" height="400" alt="Travel_Advisor2" src="https://github.com/Krushi24112002/Google_Map_Travel_Advisor/assets/84612397/5fdab4ab-e8cf-4226-90b1-4323e278ff9c">
-<br>
-<img width="800" height="400" alt="Travel_Advisor3" src="https://github.com/Krushi24112002/Google_Map_Travel_Advisor/assets/84612397/fda9acb1-db1f-4511-9a8d-9735e5cedd4e">
 <h2>🛠️ Installation Steps:</h2>
 
 <p>1. Get the travel advisor rapid API key from the following URL by signing up</p>
