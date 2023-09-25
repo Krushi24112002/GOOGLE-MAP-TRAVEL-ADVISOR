@@ -5,7 +5,7 @@
 
 <h2>🚀 Demo</h2>
 
-<a href="https://krushi24112002.github.io/SORTING-ALGO-VISUALIZER/"> Sorting Algo Visualizer </a>
+<a href="https://krushi24112002.github.io/GOOGLE-MAP-TRAVEL-ADVISOR/"> Google Map Travel Advisor </a>
 
 <h2> 📑 Learning </h2>
 
